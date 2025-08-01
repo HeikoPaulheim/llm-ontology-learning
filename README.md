@@ -13,4 +13,4 @@ The approach foresees generating ontologies from an input ontology on the fly, a
 This repository contains three folders:
 - [prompts](/prompts) contains the prompts used both for ontology generation as well as for the experiments on taxonomy and domain/range induction.
 - [ontologies](/ontologies) contains a set of ontologies created for experiments in the paper, and are solely present for reproducibility. They should not be reused for other experiments.
-- [experiment_results](/experiment_results) contains the output of the LLMs that the results in the paper are based on
+- [experiment_results](/experiment_results) contains the output of the LLMs that the results in the paper are based on.
