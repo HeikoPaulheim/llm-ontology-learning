@@ -1,0 +1,8 @@
+hasIngredient
+isMadeFrom
+hasSauce
+isPreparedBy
+hasShape
+hasColor
+originatesFrom
+isServedWith

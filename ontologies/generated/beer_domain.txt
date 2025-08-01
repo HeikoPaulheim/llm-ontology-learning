@@ -1,0 +1,13 @@
+hasIngredient,Beer
+producedBy,Beer
+hasStyle,Beer
+hasBitterness,Beer
+hasColor,Beer
+hasAroma,Beer
+hasFlavor,Beer
+hasBody,Beer
+servedIn,Beer
+brewedWith,Beer
+isFermentedBy,Beer
+hasBrewingProcess,Beer
+awards,Beer

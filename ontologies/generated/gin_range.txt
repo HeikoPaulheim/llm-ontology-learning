@@ -1,0 +1,13 @@
+hasBotanical,Botanical
+isDistilledUsing,DistillationMethod
+hasBaseSpirit,GinBaseSpirit
+isProducedBy,GinProducer
+isFromRegion,Region
+hasFlavorProfile,GinFlavorProfile
+hasGinComponent,GinComponent
+hasDistillationMethod,DistillationMethod
+hasGinVolume,GinVolume
+hasGinStrength,GinStrength
+hasGinColor,GinColor
+hasGinCertification,GinCertification
+hasGinAge,GinAge

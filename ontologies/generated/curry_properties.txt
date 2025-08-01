@@ -1,0 +1,8 @@
+hasIngredient
+usesSpice
+cookedInRegion
+isVariationOf
+servedWith
+preparedWith
+containsProtein
+hasFlavorProfile

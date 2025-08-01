@@ -1,0 +1,5 @@
+I want to build an ontology of {domain}. I give you the classes I defined, please provide a list of subclass axioms between those classes in the Format
+A,B
+where A rdfs:subClassOf B holds
+List of Classes:
+{classes}

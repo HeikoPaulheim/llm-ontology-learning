@@ -1,0 +1,8 @@
+hasCrust
+hasSauce
+hasTopping
+hasCheese
+isInspiredBy
+isMadeWith
+isServedWith
+hasDough

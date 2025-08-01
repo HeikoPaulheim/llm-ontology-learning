@@ -1,0 +1,8 @@
+I want to build an ontology of {domain}. I give you the classes and properties I defined, please provide a list of range definitions in the format
+P,R
+where P rdfs:range R holds.
+Leave the fields empty if none of the classes defined is suitable as a range.
+List of Properties:
+{properties}
+List of Classes:
+{classes}

@@ -1,0 +1,13 @@
+hasGrapeVarietal,Wine
+producedInRegion,Wine
+hasWineStyle,Wine
+hasTannin,Wine
+hasAcidity,Wine
+hasAroma,Wine
+hasFlavor,Wine
+hasFinish,Wine
+hasWineFault,Wine
+isProducedBy,Wine
+hasVintage,Wine
+hasServingTemperature,Wine
+isAppellationOf,Wine

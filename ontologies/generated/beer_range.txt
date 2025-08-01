@@ -1,0 +1,13 @@
+hasIngredient,Ingredient
+producedBy,Brewery
+hasStyle,BeerStyle
+hasBitterness,BitternessUnit
+hasColor,ColorUnit
+hasAroma,AromaCompound
+hasFlavor,FlavorCompound
+hasBody,Body
+servedIn,BeerServingVessel
+brewedWith,BrewingMaterial
+isFermentedBy,Yeast
+hasBrewingProcess,BrewingProcess
+awards,BeerAward

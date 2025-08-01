@@ -1,0 +1,13 @@
+hasWineDescriptor
+producesWine
+hasVintageYear
+locatedIn
+hasSugar
+hasColor
+hasBody
+madeFromGrape
+adjacentRegion
+madeFromFruit
+hasFlavor
+hasMaker
+madeIntoWine

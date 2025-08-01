@@ -1,0 +1,13 @@
+hasGrape
+isFromRegion
+hasVintage
+hasOakTreatment
+usesWinemakingProcess
+hasWineStyle
+hasTanninLevel
+hasAcidityLevel
+hasAromaProfile
+hasFlavorProfile
+isProducedBy
+isReviewedBy
+hasWinePairing

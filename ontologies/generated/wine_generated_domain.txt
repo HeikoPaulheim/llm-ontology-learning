@@ -1,0 +1,13 @@
+hasGrape,Wine
+isFromRegion,Wine
+hasVintage,Wine
+hasOakTreatment,Wine
+usesWinemakingProcess,Wine
+hasWineStyle,Wine
+hasTanninLevel,Wine
+hasAcidityLevel,Wine
+hasAromaProfile,Wine
+hasFlavorProfile,Wine
+isProducedBy,Wine
+isReviewedBy,Wine
+hasWinePairing,Wine

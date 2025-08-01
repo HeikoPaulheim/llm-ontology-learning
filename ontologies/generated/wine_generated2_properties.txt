@@ -1,0 +1,13 @@
+hasGrapeVariety
+isMadeBy
+isGrownIn
+hasVintage
+hasAroma
+hasFlavor
+hasBody
+hasAcidity
+hasTannin
+hasWinePairing
+isAwarded
+isReviewedBy
+hasVinificationTechnique

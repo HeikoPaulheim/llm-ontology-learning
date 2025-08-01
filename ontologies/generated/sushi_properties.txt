@@ -1,0 +1,8 @@
+hasIngredient
+isPreparedWith
+isServedWith
+isMadeOf
+hasGarnish
+isOfferedBy
+isLocatedIn
+hasFlavorProfile

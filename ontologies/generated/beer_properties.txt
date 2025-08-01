@@ -1,0 +1,13 @@
+hasIngredient
+producedBy
+hasStyle
+hasBitterness
+hasColor
+hasAroma
+hasFlavor
+hasBody
+servedIn
+brewedWith
+isFermentedBy
+hasBrewingProcess
+awards

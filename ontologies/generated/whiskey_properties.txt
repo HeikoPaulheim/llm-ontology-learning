@@ -1,0 +1,13 @@
+hasGrain
+hasWaterSource
+usesYeast
+maturesIn
+distilledUsing
+producedBy
+bottledBy
+isFromRegion
+hasFlavorProfile
+hasAroma
+hasPalate
+hasFinish
+hasColor

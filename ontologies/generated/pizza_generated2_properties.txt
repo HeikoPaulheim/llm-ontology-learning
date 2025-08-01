@@ -1,0 +1,8 @@
+hasCrust
+hasSauce
+hasCheese
+hasTopping
+isPreparedIn
+isOfferedBy
+isOrderedBy
+hasIngredient

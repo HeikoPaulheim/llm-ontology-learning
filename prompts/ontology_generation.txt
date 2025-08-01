@@ -1,0 +1,6 @@
+Build me an ontology of {domain} with {N} Classes and {M} ObjectProperties, please. Provide the result as
+1. List of Classes (one per line)
+2. List of ObjectProperties (one per line)
+3. List of subclass axioms in the format "A,B" (one per line, where A is a subclass of B)
+4. List of domain axioms in the format P,D (one per line, where P is a property, D is its domain - leave empty if there is no suitable class)
+5. List of range axioms in the format P,R (one per line, where P is a property, R is its range - leave empty if there is no suitable class)
