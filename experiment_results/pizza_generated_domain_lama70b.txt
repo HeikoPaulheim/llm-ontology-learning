@@ -1,0 +1,8 @@
+hasCrust,Pizza
+hasSauce,Pizza
+hasTopping,Pizza
+hasCheese,Pizza
+isInspiredBy,Pizza
+isMadeWith,Pizza
+isServedWith,Pizza
+hasDough,Pizza 

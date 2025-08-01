@@ -1,0 +1,8 @@
+hasIngredient,Curry
+usesSpice,Spice
+cookedInRegion,Region
+isVariationOf,Curry
+servedWith,Food
+preparedWith,CookingMethod
+containsProtein,Protein
+hasFlavorProfile,FlavorProfile

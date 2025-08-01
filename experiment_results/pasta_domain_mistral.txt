@@ -1,0 +1,8 @@
+hasIngredient,Pasta
+isMadeFrom,Pasta
+hasSauce,Pasta
+isPreparedBy,Pasta
+hasShape,Pasta
+hasColor,Pasta
+originatesFrom,Pasta
+isServedWith,Pasta

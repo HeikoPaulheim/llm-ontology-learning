@@ -1,0 +1,9 @@
+hasIngredient,PastaIngredient
+isMadeFrom,PastaIngredient
+hasSauce,PastaSauce
+isPreparedBy,PastaPreparationMethod
+hasShape,PastaShape
+hasColor,PastaColor
+originatesFrom,PastaOrigin
+isServedWith,PastaDish
+isServedWith,PastaIngredient

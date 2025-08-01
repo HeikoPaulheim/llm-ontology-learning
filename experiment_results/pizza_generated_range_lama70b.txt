@@ -1,0 +1,8 @@
+hasCrust,Crust
+hasSauce,TomatoSauce/PestoSauce/AlfredoSauce/BBQSauce/SpicyTomatoSauce/GarlicSauce/OliveOilBase
+hasTopping,(Tomato or Basil or Oregano or Pepper or Onion or Garlic or Mushroom or GreenPepper or BlackOlive or Spinach or ArtichokeHeart or Pineapple or Ham or Bacon or Sausage or Pepperoni or Chicken or Beef or Shrimp or Anchovy or ItalianSausage or SpicySausage or HotPepper or Jalapeno or BananaPepper or RedPepperFlakes or ExtraCheese or DoubleCheese or NoCheese or FreshMozzarella or SmokedMozzarella or VeganCheese or PineNut or SunDriedTomato or Eggplant or Zucchini or Broccoli or BellPepper or PortobelloMushroom or Arugula or Prosciutto or Salami or Capicollo or SpicyChicken or BBQChicken or Pork or Lamb or Duck or SeafoodMix or Lobster or Crab or Calamari or Tuna or Salmon or VeganPepperoni or VeganSausage or VeganCheeseBlend or SpicyVeganCheese or VeganHam or VeganBacon or VeganChicken or VeganSeafood)
+hasCheese,(ExtraCheese or DoubleCheese or NoCheese or FreshMozzarella or SmokedMozzarella or VeganCheese or Mozzarella or Provolone or Ricotta or Parmesan or Gorgonzola or FetaCheese or VeganCheeseBlend or SpicyVeganCheese)
+isInspiredBy,(IndianInspiredPizza or ThaiInspiredPizza or GreekPizza or MediterraneanPizza or MexicanPizza or BBQPizza or BuffaloChickenPizza)
+isMadeWith,(Dough or WheatCrust or GlutenFreeCrust or CauliflowerCrust or SourdoughCrust or WholeWheatCrust)
+isServedWith,
+hasDough,Dough 

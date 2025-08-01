@@ -1,0 +1,24 @@
+Here is a list of subclass axioms between the given classes:
+
+1. NeapolitanPizza, NewYorkStylePizza, SicilianPizza, ChicagoDeepDishPizza, DetroitStylePizza, RomanPizza, CaliforniaStylePizza - PizzaStyle
+2. GlutenFreePizza, WholeWheatPizza - Pizza
+3. VeganPizza, VegetarianPizza - Pizza
+4. MeatLoversPizza, HawaiianPizza, BBQPizza, WhitePizza, RedPizza - Pizza
+5. ThinCrust, ThickCrust, StuffedCrust, SourdoughCrust, WholeWheatCrust, GlutenFreeCrust - PizzaCrust
+6. TomatoSauce, PestoSauce, WhiteSauce, BBQ Sauce, SpicySauce - PizzaSauce
+7. Mozzarella, Provolone, Parmesan, Ricotta, Gorgonzola, Feta, VeganCheese - PizzaCheese
+8. VegetableTopping, MeatTopping, FruitTopping, HerbTopping, SpiceTopping, MushroomTopping, OnionTopping, PepperTopping, OliveTopping, TomatoTopping, SpinachTopping, BroccoliTopping, ArtichokeTopping, PineappleTopping, PepperoniTopping, SausageTopping, BaconTopping, HamTopping, ChickenTopping, BeefTopping, BasilTopping, OreganoTopping, RedPepperFlakes, GarlicTopping, JalapenoTopping - PizzaTopping
+9. SmallPizza, MediumPizza, LargePizza, ExtraLargePizza, PersonalPizza - PizzaSize
+10. OnlineOrder, PhoneOrder, DeliveryOrder, PickupOrder - PizzaOrder
+11. PizzeriaChain, IndependentPizzeria - PizzaRestaurant
+12. Flour, Yeast, Water, Salt, Sugar, Oil, Dough - PizzaIngredient
+13. WoodFiredOven, GasOven, ElectricOven - PizzaOven
+14. CardboardPizzaBox, EcoFriendlyPizzaBox - PizzaBox
+15. TriangleCut, SquareCut, PartyCut - PizzaCutStyle
+16. DoughPreparation, SauceApplication, CheeseDistribution, ToppingPlacement, Baking - PizzaPreparationStep
+17. DiscountedPizza, ComboDeal, LimitedTimeOffer - PizzaSpecialOffer
+18. CityZone, SuburbanArea, RuralArea - PizzaDeliveryArea
+19. RegularCustomer, NewCustomer - PizzaCustomer
+20. PositiveReview, NegativeReview, NeutralReview - PizzaReview
+
+Note that some of these subclass axioms may be implicit or inferred based on the context, but they are not explicitly stated in the given list of classes.

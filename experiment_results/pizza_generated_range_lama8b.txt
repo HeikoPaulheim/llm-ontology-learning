@@ -1,0 +1,173 @@
+Here is the list of range definitions for the properties:
+
+1. hasCrust, P,R
+   P, Crust
+   hasCrust, Crust, WheatCrust
+   hasCrust, Crust, GlutenFreeCrust
+   hasCrust, Crust, CauliflowerCrust
+   hasCrust, Crust, SourdoughCrust
+   hasCrust, Crust, WholeWheatCrust
+
+2. hasSauce, P,R
+   hasSauce, Sauce, TomatoSauce
+   hasSauce, Sauce, PestoSauce
+   hasSauce, Sauce, AlfredoSauce
+   hasSauce, Sauce, BBQSauce
+   hasSauce, Sauce, SpicyTomatoSauce
+   hasSauce, Sauce, GarlicSauce
+   hasSauce, Sauce, OliveOilBase
+
+3. hasTopping, P,R
+   hasTopping, Topping, Tomato
+   hasTopping, Topping, Basil
+   hasTopping, Topping, Oregano
+   hasTopping, Topping, Pepper
+   hasTopping, Topping, Onion
+   hasTopping, Topping, Garlic
+   hasTopping, Topping, Mushroom
+   hasTopping, Topping, GreenPepper
+   hasTopping, Topping, BlackOlive
+   hasTopping, Topping, Spinach
+   hasTopping, Topping, ArtichokeHeart
+   hasTopping, Topping, Pineapple
+   hasTopping, Topping, Ham
+   hasTopping, Topping, Bacon
+   hasTopping, Topping, Sausage
+   hasTopping, Topping, Pepperoni
+   hasTopping, Topping, Chicken
+   hasTopping, Topping, Beef
+   hasTopping, Topping, Shrimp
+   hasTopping, Topping, Anchovy
+   hasTopping, Topping, ItalianSausage
+   hasTopping, Topping, SpicySausage
+   hasTopping, Topping, HotPepper
+   hasTopping, Topping, Jalapeno
+   hasTopping, Topping, BananaPepper
+   hasTopping, Topping, RedPepperFlakes
+   hasTopping, Topping, ExtraCheese
+   hasTopping, Topping, DoubleCheese
+   hasTopping, Topping, NoCheese
+   hasTopping, Topping, FreshMozzarella
+   hasTopping, Topping, SmokedMozzarella
+   hasTopping, Topping, VeganCheese
+   hasTopping, Topping, PineNut
+   hasTopping, Topping, SunDriedTomato
+   hasTopping, Topping, Eggplant
+   hasTopping, Topping, Zucchini
+   hasTopping, Topping, Broccoli
+   hasTopping, Topping, BellPepper
+   hasTopping, Topping, PortobelloMushroom
+   hasTopping, Topping, Arugula
+   hasTopping, Topping, Prosciutto
+   hasTopping, Topping, Salami
+   hasTopping, Topping, Capicollo
+   hasTopping, Topping, SpicyChicken
+   hasTopping, Topping, BBQChicken
+   hasTopping, Topping, Pork
+   hasTopping, Topping, Lamb
+   hasTopping, Topping, Duck
+   hasTopping, Topping, SeafoodMix
+   hasTopping, Topping, Lobster
+   hasTopping, Topping, Crab
+   hasTopping, Topping, Calamari
+   hasTopping, Topping, Tuna
+   hasTopping, Topping, Salmon
+   hasTopping, Topping, VeganPepperoni
+   hasTopping, Topping, VeganSausage
+   hasTopping, Topping, VeganCheeseBlend
+   hasTopping, Topping, SpicyVeganCheese
+   hasTopping, Topping, VeganHam
+   hasTopping, Topping, VeganBacon
+   hasTopping, Topping, VeganChicken
+   hasTopping, Topping, VeganSeafood
+
+4. hasCheese, P,R
+   hasCheese, Cheese, MozzarellaPizza
+   hasCheese, Cheese, ProvolonePizza
+   hasCheese, Cheese, RicottaPizza
+   hasCheese, Cheese, ParmesanPizza
+   hasCheese, Cheese, GorgonzolaPizza
+   hasCheese, Cheese, FetaCheese
+
+5. isInspiredBy, P,R
+   isInspiredBy, Cuisine, ItalianInspiredPizza
+   isInspiredBy, Cuisine, GreekInspiredPizza
+   isInspiredBy, Cuisine, MediterraneanInspiredPizza
+   isInspiredBy, Cuisine, MexicanInspiredPizza
+   isInspiredBy, Cuisine, IndianInspiredPizza
+   isInspiredBy, Cuisine, ThaiInspiredPizza
+
+6. isMadeWith, P,R
+   isMadeWith, Ingredient, Tomato
+   isMadeWith, Ingredient, Basil
+   isMadeWith, Ingredient, Oregano
+   isMadeWith, Ingredient, Pepper
+   isMadeWith, Ingredient, Onion
+   isMadeWith, Ingredient, Garlic
+   isMadeWith, Ingredient, Mushroom
+   isMadeWith, Ingredient, GreenPepper
+   isMadeWith, Ingredient, BlackOlive
+   isMadeWith, Ingredient, Spinach
+   isMadeWith, Ingredient, ArtichokeHeart
+   isMadeWith, Ingredient, Pineapple
+   isMadeWith, Ingredient, Ham
+   isMadeWith, Ingredient, Bacon
+   isMadeWith, Ingredient, Sausage
+   isMadeWith, Ingredient, Pepperoni
+   isMadeWith, Ingredient, Chicken
+   isMadeWith, Ingredient, Beef
+   isMadeWith, Ingredient, Shrimp
+   isMadeWith, Ingredient, Anchovy
+   isMadeWith, Ingredient, ItalianSausage
+   isMadeWith, Ingredient, SpicySausage
+   isMadeWith, Ingredient, HotPepper
+   isMadeWith, Ingredient, Jalapeno
+   isMadeWith, Ingredient, BananaPepper
+   isMadeWith, Ingredient, RedPepperFlakes
+   isMadeWith, Ingredient, ExtraCheese
+   isMadeWith, Ingredient, DoubleCheese
+   isMadeWith, Ingredient, NoCheese
+   isMadeWith, Ingredient, FreshMozzarella
+   isMadeWith, Ingredient, SmokedMozzarella
+   isMadeWith, Ingredient, VeganCheese
+   isMadeWith, Ingredient, PineNut
+   isMadeWith, Ingredient, SunDriedTomato
+   isMadeWith, Ingredient, Eggplant
+   isMadeWith, Ingredient, Zucchini
+   isMadeWith, Ingredient, Broccoli
+   isMadeWith, Ingredient, BellPepper
+   isMadeWith, Ingredient, PortobelloMushroom
+   isMadeWith, Ingredient, Arugula
+   isMadeWith, Ingredient, Prosciutto
+   isMadeWith, Ingredient, Salami
+   isMadeWith, Ingredient, Capicollo
+   isMadeWith, Ingredient, SpicyChicken
+   isMadeWith, Ingredient, BBQChicken
+   isMadeWith, Ingredient, Pork
+   isMadeWith, Ingredient, Lamb
+   isMadeWith, Ingredient, Duck
+   isMadeWith, Ingredient, SeafoodMix
+   isMadeWith, Ingredient, Lobster
+   isMadeWith, Ingredient, Crab
+   isMadeWith, Ingredient, Calamari
+   isMadeWith, Ingredient, Tuna
+   isMadeWith, Ingredient, Salmon
+   isMadeWith, Ingredient, VeganPepperoni
+   isMadeWith, Ingredient, VeganSausage
+   isMadeWith, Ingredient, VeganCheeseBlend
+   isMadeWith, Ingredient, SpicyVeganCheese
+   isMadeWith, Ingredient, VeganHam
+   isMadeWith, Ingredient, VeganBacon
+   isMadeWith, Ingredient, VeganChicken
+   isMadeWith, Ingredient, VeganSeafood
+
+7. isServedWith, P,R
+   isServedWith, Side, Salad
+   isServedWith, Side, Breadsticks
+   isServedWith, Side, GarlicBread
+   isServedWith, Side, MarinaraSauce
+   isServedWith, Side, OliveOil
+   isServedWith, Side, BalsamicVinegar
+
+8. hasDough, P,R
+   hasDough, Dough, Dough

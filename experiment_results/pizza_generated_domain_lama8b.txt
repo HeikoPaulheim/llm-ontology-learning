@@ -1,0 +1,8 @@
+hasCrust,Crust
+hasSauce,Sauce
+hasTopping,Topping
+hasCheese,Cheese
+isInspiredBy,Concept
+isMadeWith,Ingredient
+isServedWith,Side
+hasDough,Dough

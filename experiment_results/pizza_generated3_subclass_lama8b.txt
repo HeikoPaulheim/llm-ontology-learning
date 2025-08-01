@@ -1,0 +1,26 @@
+Here's a list of subclass axioms between the given classes:
+
+1. NeapolitanPizza, NewYorkStylePizza, SicilianPizza, ChicagoDeepDishPizza, DetroitStylePizza, RomanPizza, CaliforniaStylePizza - PizzaStyle
+2. ThinCrust, ThickCrust, StuffedCrust, SourdoughCrust, WholeWheatCrust, GlutenFreeCrust - PizzaCrust
+3. TomatoSauce, WhiteSauce, PestoSauce, BBQSauce, SpicySauce - PizzaSauce
+4. Mozzarella, Provolone, Parmesan, Ricotta, Gorgonzola - PizzaCheese
+5. VeganCheese - PizzaCheese
+6. VegetableTopping, MeatTopping, SeafoodTopping, FruitTopping - PizzaTopping
+7. Pepperoni, Sausage, Bacon, Ham, Mushrooms, Onions, Peppers, Olives, Tomatoes, Spinach, Pineapple, Jalapenos, Anchovies, ArtichokeHearts, Basil, Garlic, Spices, ItalianSeasoning, RedPepperFlakes, Oregano - PizzaTopping
+8. SmallPizza, MediumPizza, LargePizza, ExtraLargePizza, PersonalPizza - PizzaSize
+9. RoundPizza, SquarePizza, RectangularPizza, TrianglePizza - PizzaShape
+10. WoodFiredOven, GasOven, ElectricOven, ConveyorOven - PizzaOven
+11. Flour, Yeast, Water, Oil, Sugar, Salt, Dough - PizzaIngredient
+12. Kneading, Proofing, Baking, Stretching, Saucing, Cheesing, Topping - PizzaPreparationMethod
+13. PizzaSlice, PizzaPortion, PizzaBase, PizzaEdge - PizzaComponent
+14. CrustThickness, CrustFlavor, SauceSweetness, CheeseSaltiness, ToppingSpiceLevel - PizzaFlavorProfile
+15. HotPizza, WarmPizza, ColdPizza - PizzaTemperature
+16. FreshPizza, DayOldPizza, FrozenPizza - PizzaFreshness
+17. Dominoes, PizzaHut, PapaJohns, LocalPizzeria - PizzaBrand
+18. SpicyPizza, SweetPizza, SavoryPizza, UmamiPizza - PizzaFlavorProfile
+19. NutFreePizza, DairyFreePizza, LowCarbPizza, HighProteinPizza - PizzaDietaryRestriction
+20. Gluten, Dairy, Nuts, Shellfish, Soy, Wheat - PizzaAllergen
+21. CheapPizza, ExpensivePizza, AveragePizza - PizzaCost
+22. ExcellentPizza, GoodPizza, AveragePizza, PoorPizza, TerriblePizza - PizzaRating
+
+Note that some of these subclass axioms may be implicit or inferred based on the given classes and their relationships.

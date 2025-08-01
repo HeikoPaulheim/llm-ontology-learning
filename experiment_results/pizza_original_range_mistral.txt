@@ -1,0 +1,5 @@
+hasTopping,PizzaTopping
+hasIngredient,Food
+hasCountryOfOrigin,Country
+hasBase,PizzaBase
+hasSpiciness,Spiciness

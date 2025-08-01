@@ -1,0 +1,8 @@
+hasCrust,PizzaCrust
+hasSauce,PizzaSauce
+hasCheese,PizzaCheese
+hasTopping,PizzaTopping
+isPreparedIn,PizzaOven
+isOfferedBy,PizzaRestaurant
+isOrderedBy,PizzaCustomer
+hasIngredient,PizzaIngredient
