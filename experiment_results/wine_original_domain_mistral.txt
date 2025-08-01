@@ -1,0 +1,13 @@
+hasWineDescriptor,Wine
+producesWine,Winery
+hasVintageYear,Wine
+locatedIn,Region
+hasSugar,Wine
+hasColor,Wine
+hasBody,Wine
+madeFromGrape,Wine
+adjacentRegion,Region
+madeFromFruit,Wine
+hasFlavor,Wine
+hasMaker,Wine
+madeIntoWine,Grape

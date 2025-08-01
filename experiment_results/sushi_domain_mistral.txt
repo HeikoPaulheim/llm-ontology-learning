@@ -1,0 +1,8 @@
+hasIngredient,Sushi
+isPreparedWith,Sushi
+isServedWith,Sushi
+isMadeOf,Sushi
+hasGarnish,Sushi
+isOfferedBy,Restaurant
+isLocatedIn,Restaurant
+hasFlavorProfile,Sushi

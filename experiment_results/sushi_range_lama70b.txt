@@ -1,0 +1,8 @@
+hasIngredient,Ingredient
+isPreparedWith,SushiChef
+isServedWith,SideDish
+isMadeOf,Ingredient
+hasGarnish,Garnish
+isOfferedBy,Restaurant
+isLocatedIn,Region
+hasFlavorProfile,FlavorProfile

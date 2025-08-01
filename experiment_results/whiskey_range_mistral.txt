@@ -1,0 +1,13 @@
+hasGrain,Grain
+hasWaterSource,WaterSource
+usesYeast,Yeast
+maturesIn,CaskType
+distilledUsing,Still
+producedBy,Distillery
+bottledBy,Bottler
+isFromRegion,Region
+hasFlavorProfile,FlavorProfile
+hasAroma,Aroma
+hasPalate,Palate
+hasFinish,Finish
+hasColor,Color

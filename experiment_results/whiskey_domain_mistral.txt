@@ -1,0 +1,13 @@
+hasGrain,Whiskey
+hasWaterSource,Whiskey
+usesYeast,Whiskey
+maturesIn,Whiskey
+distilledUsing,Whiskey
+producedBy,Whiskey
+bottledBy,Whiskey
+isFromRegion,Whiskey
+hasFlavorProfile,Whiskey
+hasAroma,Whiskey
+hasPalate,Whiskey
+hasFinish,Whiskey
+hasColor,Whiskey

@@ -1,0 +1,7 @@
+RedWine,Wine
+WhiteWine,Wine
+RoséWine,Wine
+SparklingWine,Wine
+FortifiedWine,Wine
+DessertWine,Wine
+TableWine,Wine
